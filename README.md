@@ -22,12 +22,11 @@ cd Face_Swap_Application
 
 
 3. Install the required dependencies:
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 
 4. Run the application:
-
-python main.py
+ python main.py
 
 ## Usage
 1. Launch the application.
