@@ -1,0 +1,6 @@
+pip install django
+pip install dlib
+pip install numpy
+pip install scipy
+pip install opencv-python
+pip install pillow
