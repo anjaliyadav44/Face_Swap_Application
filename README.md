@@ -1,5 +1,5 @@
 # Face_Swap_Application
-# Face Swap Application
+
 
 ## Description
 The Face Swap Application is a fun and interactive tool that allows users to swap faces in photos. This project utilizes advanced image processing techniques to detect and swap faces seamlessly, creating hilarious and entertaining results.
